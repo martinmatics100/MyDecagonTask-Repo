@@ -1,0 +1,70 @@
+.section1[b-0gope0ktq6] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+
+.second2[b-0gope0ktq6] {
+    text-align: center;
+}
+
+.second2 h2[b-0gope0ktq6] {
+    margin-bottom: 20px;
+}
+
+.second2 form[b-0gope0ktq6] {
+    display: flex;
+    flex-direction: column;
+}
+
+.second2 form input[type="text"][b-0gope0ktq6],
+.second2 form input[type="email"][b-0gope0ktq6],
+.second2 form input[type="password"][b-0gope0ktq6] {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 0.5px solid #ccc;
+    border-radius: 30px;
+}
+.second2 form input[type="text"]:hover[b-0gope0ktq6],
+.second2 form input[type="email"]:hover[b-0gope0ktq6],
+.second2 form input[type="password"]:hover[b-0gope0ktq6] {
+    background-color: #B0B0B0;
+    transition: 3s;
+}
+
+.second2 form input[type="submit"][b-0gope0ktq6] {
+     width: 100%;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #000000;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.second2 form input[type="submit"]:hover[b-0gope0ktq6] {
+    background-color: #B0B0B0;
+    transition: 1s;
+}
+.option[b-0gope0ktq6] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.option p[b-0gope0ktq6] {
+    margin-bottom: 10px;
+}
+
+.option a[b-0gope0ktq6] {
+    margin-bottom: 2px;
+    text-decoration: none;
+    color: #B0B0B0;
+}

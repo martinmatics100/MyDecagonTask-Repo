@@ -1,0 +1,17 @@
+| section2.png      | Blue Origin Fams | Jakarta      | $50   | Most Picks           |                      |
+| section2 (1).png  | Ocean Land       | Bandung      | $22   | Most Picks           |                      |
+| section2 (2).png  | Stark House      | Malang       | $856  | Most Picks           |                      | 
+| section2 (3).png  | Vinna Vill       | Malang       | $62   | Most Picks           |                      | 
+| section2 (4).png  | Bobox            | Medan        | $72   | Most Picks           |                      | 
+| section 3.png     | Tabby Town       | Gunung Batu  |       | beauty backyard      | Popular Choice       |
+| section 3 (1).png | Anggana          | Bogor        |       | beauty backyard      |                      | 
+| section 3 (2).png | Seattle Rain     | Jakarta      |       | beauty backyard      |                      |
+| section 3 (3).png | Wodden Pit       | Wonosobo     |       | beauty backyard      |                      |
+| section4 4.png    | Green Park       | Tangerang    |       | living room          |                      | 
+| section4 (1).png  | Podo Wae         | Madiun       |       | living room          |                      | 
+| section 4 (2).png | Silver Rain      | Bandung      |       | living room          |                      | 
+| section 4 (3).png | CashVille        | Kemang       |       | living room          | Popular Choice       |
+| section 5.png     | PS Wood          | Depok        |       | Apartment            |                      | 
+| section 5 (1).png | One Five         | Jakarta      |       | Apartment            |                      |
+| section 5 (2).png | Minimal          | Bogor        |       | Apartment            | Popular Choice       |
+| section 5 (3).png | Stays Home       | Wonosobor    |       | Apartment            |                      |

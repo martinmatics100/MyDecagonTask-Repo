@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Register";
+}
+@model User
+
+<body class="img js-fullheight" style="background-image: url(@Url.Content( "~/images/pexels-ahmed-abdelaziz-453201.jpg"));">
+<section class="section1">
+    <div class="second2">
+            <h2 style="color:white;">Sign Up</h2>
+
+            <form class="form" asp-action="Register" method="post">
+
+            <input type="text" id="firstName" name="firstName" placeholder="Enter your first name" required><br />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+
+            <input type="text" id="lastName" name="lastName" placeholder="Enter your last name" required><br />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+
+            <input type="email" id="email" name="email" placeholder="Enter your email address" required><br />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+                <input type="password" id="password" name="password" placeholder="Enter your password" required autocomplete="off"
+                       oninput="togglePasswordVisibility('password')" />
+                <span class="toggle-password" onclick="togglePasswordVisibility('password')">
+                    <i id="toggleIcon" class="fa fa-eye-slash"></i>
+                </span>
+                <span asp-validation-for="PassWord" class="text-danger"></span>
+
+
+
+            <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm your password" required><br />
+                <span asp-validation-for="PassWord" class="text-danger"></span>
+
+            <div class="login">
+                <input type="submit" value="Sign Up">
+            </div>
+        </form>
+    </div>
+</section>
+
+<div class="option">
+    <p>-or-</p>
+    <div class="second">
+    <a class="facebook" href="#" onclick="signUpWithFacebook()">Sign up with Facebook</a><br /><br />
+    <a class="google" href="#" onclick="signUpWithGoogle()"> Sign up with Google</a>
+    </div>
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+<script>
+    function togglePasswordVisibility(passwordId) {
+        const passwordInput = document.getElementById(passwordId);
+        const toggleIcon = document.getElementById("toggleIcon");
+
+        if (passwordInput.type === "password") {
+            passwordInput.type = "text";
+            toggleIcon.classList.remove("fa-eye-slash");
+            toggleIcon.classList.add("fa-eye");
+        } else {
+            passwordInput.type = "password";
+            toggleIcon.classList.remove("fa-eye");
+            toggleIcon.classList.add("fa-eye-slash");
+        }
+    }
+</script>
