@@ -1,0 +1,106 @@
+h1[b-16wv2ckk1j]{
+    margin-top: 80px;
+    text-align: center;
+    color: #060310;
+}
+h3[b-16wv2ckk1j] {
+    color: #152C5B;
+    margin-bottom: 50px;
+}
+.sec2[b-16wv2ckk1j]{
+    margin-left: 0px;
+}
+
+.sec1[b-16wv2ckk1j]{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.sec3 h5[b-16wv2ckk1j] {
+    color: #403a3a;
+    font-size: 25px;
+}
+.sec3 p[b-16wv2ckk1j] {
+    color: #1e1a1a;
+    font-size: 18px;
+    font-weight: 500;
+}
+.sec4[b-16wv2ckk1j]{
+
+    border: 2px solid #808080;
+    background-color: #ede7e7;
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sec4 .sec5 h5[b-16wv2ckk1j]{
+    color: #152C5B;
+    font-size: 20px;
+}
+.sec4 .sec5 p[b-16wv2ckk1j]{
+    color: #152C5B;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.sec4 .sec5 .sp[b-16wv2ckk1j]{
+    color: #1ABC9C;
+    font-size: 36px;
+    font-weight: 500;
+}
+.sec4 .sec5 .spp[b-16wv2ckk1j]{
+    color: #B0B0B0;
+    font-size: 36px;
+    font-weight: 500; 
+}
+
+.sec4 .sec6[b-16wv2ckk1j]{
+    margin-bottom: 30px;
+    /* Additional styles as needed */
+}
+.sec7 label[b-16wv2ckk1j] {
+    color: #152C5B;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.sec7 p[b-16wv2ckk1j]{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'poppins';
+}
+.sec7 .btn-horizontal[b-16wv2ckk1j] {
+    width: 70%; /* Adjust the percentage value as needed */
+    height: 50%;
+    border-radius: 20px;
+}
+.logoss[b-16wv2ckk1j]{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.logos1 p span[b-16wv2ckk1j] {
+    color: #152C5B;
+}
+
+.image-container[b-16wv2ckk1j] {
+    margin-top: 70px;
+}
+.logos1 p[b-16wv2ckk1j] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 170%;
+    color: #B0B0B0;
+    margin-top: 15px;
+    margin-left: 2px;
+    margin-bottom: 70px;
+}
+
+
+

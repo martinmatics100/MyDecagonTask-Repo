@@ -150,7 +150,7 @@ button:hover{
 
 .man1 img {
   width: 100%; /* Make images take up the available width */
-  height: 300%; /* Maintain image aspect ratio */
+  height: 100%; /* Maintain image aspect ratio */
 }
 .man1 img {
   max-width: 150%; /* Reduce the maximum width of the images */

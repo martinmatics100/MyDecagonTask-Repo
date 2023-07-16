@@ -1,0 +1,200 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "MostPicked";
+    //var section1 = ViewData["section1"] as List<Property>;
+}
+
+<!--MostPicked-->
+
+<h1>MOST PICKED</h1>
+<hr />
+<!--Blue Origin Fams-->
+<h3>Blue Origin Fams<br />Jakarta, Indonesia</h3>
+
+<section class="sec1">
+    @*@foreach(var item in section1)
+    {
+        <div>
+            <img src="~/images/@item.Name" alt="sec2" />
+        </div>
+    }*@
+    <div class="sec2">
+        <img src="~/images/mostpicked3.png" alt="" style="width:auto; height: auto;" />
+        <img src="~/Images/mostpicked2.png" alt="" style="width:auto; height: auto; margin-top:150px;" />
+        <img src="~/images/mostpicked3.png" alt="" style="width:auto; height: auto; margin-top:150px;" />
+        
+    </div>
+    <div class="sec3">
+        <h5 style="margin-left: 100px; text-align:center;">About The Place</h5>
+        <p style="margin-left: 100px;">
+            Blue Origin Fams is a hotel located in Jakarta, Indonesia. 
+            Situated in a vibrant city known for its rich cultural heritage and bustling atmosphere, 
+            Blue Origin Fams offers a comfortable and enjoyable stay for its guests. The hotel provides a range of amenities and services,
+            ensuring a memorable experience for visitors.<br /><br />
+
+            Blue Origin Fams is known for its inviting atmosphere and friendly staff who are dedicated to providing excellent hospitality. 
+            The hotel boasts well-appointed rooms, designed with comfort and relaxation in mind.
+            Each room is equipped with modern amenities to cater to the needs of guests, ensuring a pleasant and convenient stay.<br /><br />
+
+            Located in Jakarta, Blue Origin Fams allows guests to explore the diverse attractions and vibrant city life. 
+            Guests can immerse themselves in the local culture by visiting nearby landmarks, indulging in delicious local cuisine, 
+            and experiencing the city's vibrant nightlife. 
+            Whether traveling for business or leisure, Blue Origin Fams offers a welcoming environment for guests to unwind and recharge. 
+            The hotel's convenient location, comfortable accommodations, and attentive service make it an ideal choice for travelers seeking a pleasant stay in Jakarta.
+        </p>
+        <div class="sec4" style="margin-left: 100px;">
+        <div class="sec5">
+            <h5>Start Booking</h5>
+                <p><span class="sp">$280</span> <span class="spp">per night</span><br />How long you will stay?</p>
+        </div>
+
+        <div class="sec6">
+                <button id="minusBtn" class="spacer-btn" style="background-color: #E74C3C; margin-right: 20px; border-radius:7px; padding: 15px;">-</button>
+            <span id="numNights">2</span> nights
+                <button id="plusBtn" class="spacer-btn" style="background-color: #1ABC9C; margin-left: 20px; border-radius:7px; padding: 15px;">+</button>
+        </div>
+        <div class="sec7">
+                <label for="datePicker">pick a date:</label>
+                <input type="date" id="datePicker" name="datePicker" class="colored-date" style="filter: invert(30%);">
+
+                <p style="color:#B0B0B0">You will pay <span style="color:#152C5B;">$480 USD</span> per <span style="color:#152C5B">2 nights</span></p>
+                <button type="button" class="btn btn-primary btn-horizontal">Continue to Book</button>
+
+        </div>
+        </div>
+    </div>
+</section>
+
+<div class="logoss">
+    <div class="logos1">
+        <img src="~/images/ic_bedroom.png" alt="bedroom" />
+        <p><span>5</span> bedroom</p>
+    </div>
+    <div class="logos1">
+        <img src="~/images/ic_livingroom.png" alt="livingroom" />
+        <p><span>1</span> living room</p>
+    </div>
+    <div class="logos1">
+        <img src="~/images/ic_bathroom (1).png" alt="bathroom" />
+        <p><span>3</span> bathroom</p>
+    </div>
+        <div class="logos1">
+            <img src="~/images/ic_diningroom 1.png" alt="dinningroom" />
+            <p><span>1</span> dinning room</p>
+        </div>
+        <div class="logos1">
+            <img src="~/images/ic_wifi 1.png" alt="wifi" />
+            <p><span>10</span> mbp/s</p>
+        </div>
+        <div class="logos1">
+            <img src="~/images/ic_ac 1.png" alt="ac" />
+            <p><span>7</span> unit ready</p>
+        </div>
+        <div class="logos1">
+            <img src="~/images/ic_kulkas.png" alt="kulkas" />
+            <p><span>2</span> refigrator</p>
+        </div>
+        <div class="logos1">
+            <img src="~/images/ic_tv.png" alt="tv" />
+            <p><span>1</span> television</p>
+        </div>
+    </div>
+
+<!--Blue Origin Fams-->
+<hr />
+<p>nasjf</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var numNightsElement = document.getElementById("numNights");
+    var minusBtn = document.getElementById("minusBtn");
+    var plusBtn = document.getElementById("plusBtn");
+
+    minusBtn.addEventListener("click", function () {
+        var numNights = parseInt(numNightsElement.innerText);
+        if (numNights > 1) {
+            numNights -= 1;
+            numNightsElement.innerText = numNights;
+        }
+    });
+
+    plusBtn.addEventListener("click", function () {
+        var numNights = parseInt(numNightsElement.innerText);
+        numNights += 1;
+        numNightsElement.innerText = numNights;
+    });
+</script>
+
+
+
+<script>
+    var datePicker = document.getElementById("datePicker");
+
+    datePicker.addEventListener("change", function () {
+        var selectedDate = datePicker.value;
+        console.log("Selected date: " + selectedDate);
+        // Perform additional actions with the selected date
+    });
+</script>

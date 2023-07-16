@@ -18,3 +18,13 @@ C:\Users\Administrator\OneDrive\Desktop\Decagon_task_Repo\Week_8_Repo\week-8-mar
 C:\Users\Administrator\OneDrive\Desktop\Decagon_task_Repo\Week_8_Repo\week-8-martinmatics100\MyHomePage\MyHomePage\HotelDataBase\obj\Debug\predeploy.sql
 C:\Users\Administrator\OneDrive\Desktop\Decagon_task_Repo\Week_8_Repo\week-8-martinmatics100\MyHomePage\MyHomePage\HotelDataBase\obj\Debug\HotelDataBase.dll
 C:\Users\Administrator\OneDrive\Desktop\Decagon_task_Repo\Week_8_Repo\week-8-martinmatics100\MyHomePage\MyHomePage\HotelDataBase\obj\Debug\HotelDataBase.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\bin\Debug\HotelDataBase.dacpac
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\bin\Debug\HotelDataBase.dll
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\bin\Debug\HotelDataBase.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\HotelDataBase.sqlproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\Model.xml
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\refactor.xml
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\postdeploy.sql
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\predeploy.sql
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\HotelDataBase.dll
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week8\MyHomePage\HotelDataBase\obj\Debug\HotelDataBase.pdb

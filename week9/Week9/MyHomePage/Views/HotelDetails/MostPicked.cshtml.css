@@ -1,0 +1,106 @@
+﻿h1{
+    margin-top: 80px;
+    text-align: center;
+    color: #060310;
+}
+h3 {
+    color: #152C5B;
+    margin-bottom: 50px;
+}
+.sec2{
+    margin-left: 0px;
+}
+
+.sec1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.sec3 h5 {
+    color: #403a3a;
+    font-size: 25px;
+}
+.sec3 p {
+    color: #1e1a1a;
+    font-size: 18px;
+    font-weight: 500;
+}
+.sec4{
+
+    border: 2px solid #808080;
+    background-color: #ede7e7;
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sec4 .sec5 h5{
+    color: #152C5B;
+    font-size: 20px;
+}
+.sec4 .sec5 p{
+    color: #152C5B;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.sec4 .sec5 .sp{
+    color: #1ABC9C;
+    font-size: 36px;
+    font-weight: 500;
+}
+.sec4 .sec5 .spp{
+    color: #B0B0B0;
+    font-size: 36px;
+    font-weight: 500; 
+}
+
+.sec4 .sec6{
+    margin-bottom: 30px;
+    /* Additional styles as needed */
+}
+.sec7 label {
+    color: #152C5B;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.sec7 p{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'poppins';
+}
+.sec7 .btn-horizontal {
+    width: 70%; /* Adjust the percentage value as needed */
+    height: 50%;
+    border-radius: 20px;
+}
+.logoss{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.logos1 p span {
+    color: #152C5B;
+}
+
+.image-container {
+    margin-top: 70px;
+}
+.logos1 p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 170%;
+    color: #B0B0B0;
+    margin-top: 15px;
+    margin-left: 2px;
+    margin-bottom: 70px;
+}
+
+
+

@@ -22,15 +22,15 @@ VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(1).p
 
 
 INSERT INTO Hotel (hotelImageURL, hotelName, hotelLocation, hotelPrice, hotelDescription, hotelPopularity)
-VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(1).png', 'Stark House', 'Malang', 856, 'null', 'Most Picks')
+VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(2).png', 'Stark House', 'Malang', 856, 'null', 'Most Picks')
 
 
 INSERT INTO Hotel (hotelImageURL, hotelName, hotelLocation, hotelPrice, hotelDescription, hotelPopularity)
-VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(1).png', 'Vinna Vill', 'Malang', 62, 'null', 'Most Picks')
+VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(3).png', 'Vinna Vill', 'Malang', 62, 'null', 'Most Picks')
 
 
 INSERT INTO Hotel (hotelImageURL, hotelName, hotelLocation, hotelPrice, hotelDescription, hotelPopularity)
-VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(1).png', 'Bobox', 'Medan', 72, 'null', 'Most Picks')
+VALUES ('https://staycationhotels.blob.core.windows.net/staycation/section2(4).png', 'Bobox', 'Medan', 72, 'null', 'Most Picks')
 
 
 INSERT INTO Hotel (hotelImageURL, hotelName, hotelLocation, hotelPrice, hotelDescription, hotelPopularity)
