@@ -40,7 +40,7 @@ namespace My_Task_1__GPA_CALCULATOR_
         {
             Console.WriteLine();
             Console.WriteLine("|-----------------|---------------|---------|--------------|--------------|-----------|");
-            Console.WriteLine("|  COUR SE & CODE  |  COURSE UNIT  |  GRADE  |  GRADE-UNIT  |  WEIGHT Pt.  |  REMARK   |");
+            Console.WriteLine("|  COURSE & CODE  |  COURSE UNIT  |  GRADE  |  GRADE-UNIT  |  WEIGHT Pt.  |  REMARK   |");
             Console.WriteLine("|-----------------|---------------|---------|--------------|--------------|-----------|");
 
             foreach (var course in convertedGrades)
@@ -54,7 +54,5 @@ namespace My_Task_1__GPA_CALCULATOR_
             Console.WriteLine($"Total Weight Point is {TotalWeightPoint()}");
             Console.WriteLine($"Your GPA is = {Gpa():F2} to 2 decimal places.");
         }
-
     }
-
  }

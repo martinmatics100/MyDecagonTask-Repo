@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\My Task 1 (GPA CALCULATOR)\\My Task 1 (GPA CALCULATOR).csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week1\\My Task 1 (GPA CALCULATOR)\\My Task 1 (GPA CALCULATOR).csproj",
       "projectName": "My Task 1 (GPA CALCULATOR)",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\My Task 1 (GPA CALCULATOR)\\My Task 1 (GPA CALCULATOR).csproj",
+      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week1\\My Task 1 (GPA CALCULATOR)\\My Task 1 (GPA CALCULATOR).csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\My Task 1 (GPA CALCULATOR)\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week1\\My Task 1 (GPA CALCULATOR)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

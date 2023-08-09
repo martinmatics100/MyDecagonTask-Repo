@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\week-6-martinmatics100\\MyHomePage\\MyHomePage\\MyHomePage.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week6\\MyHomePage\\MyHomePage.csproj",
       "projectName": "MyHomePage",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\week-6-martinmatics100\\MyHomePage\\MyHomePage\\MyHomePage.csproj",
+      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week6\\MyHomePage\\MyHomePage.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\week-6-martinmatics100\\MyHomePage\\MyHomePage\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week6\\MyHomePage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,7 +34,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
