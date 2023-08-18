@@ -14,6 +14,7 @@ namespace BANK_CONSOLE_APP
     {
         public static List<Customer> customers = new List<Customer>();
 
+
         public void RegisterFunction()
         {
             var ValidateFName = new ValidateFirstName();

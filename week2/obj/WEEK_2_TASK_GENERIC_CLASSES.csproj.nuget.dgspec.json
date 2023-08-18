@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\WEEK_2_TASK_GENERIC_CLASSES\\WEEK_2_TASK_GENERIC_CLASSES.csproj": {}
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week2\\WEEK_2_TASK_GENERIC_CLASSES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\WEEK_2_TASK_GENERIC_CLASSES\\WEEK_2_TASK_GENERIC_CLASSES.csproj": {
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week2\\WEEK_2_TASK_GENERIC_CLASSES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\WEEK_2_TASK_GENERIC_CLASSES\\WEEK_2_TASK_GENERIC_CLASSES.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week2\\WEEK_2_TASK_GENERIC_CLASSES.csproj",
         "projectName": "WEEK_2_TASK_GENERIC_CLASSES",
-        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\WEEK_2_TASK_GENERIC_CLASSES\\WEEK_2_TASK_GENERIC_CLASSES.csproj",
+        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week2\\WEEK_2_TASK_GENERIC_CLASSES.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyDecagon-Repo\\Decagon-Tasks\\WEEK_2_TASK_GENERIC_CLASSES\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyTask-Repo-Decagon\\MyDecagonTask-Repo\\week2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
