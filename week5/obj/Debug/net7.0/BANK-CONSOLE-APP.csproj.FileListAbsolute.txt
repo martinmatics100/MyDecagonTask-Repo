@@ -149,10 +149,7 @@ C:\Users\Administrator\OneDrive\Desktop\MyDecagon-Repo\Decagon-Tasks\BankAppWeek
 C:\Users\Administrator\OneDrive\Desktop\MyDecagon-Repo\Decagon-Tasks\BankAppWeek5\BANK-CONSOLE-APP\obj\Debug\net7.0\BANK-CONSOLE-APP.genruntimeconfig.cache
 C:\Users\Administrator\OneDrive\Desktop\MyDecagon-Repo\Decagon-Tasks\BankAppWeek5\BANK-CONSOLE-APP\obj\Debug\net7.0\ref\BANK-CONSOLE-APP.dll
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.exe
-C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.deps.json
-C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.runtimeconfig.json
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.dll
-C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.pdb
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\BANK-CONSOLE-APP.csproj.AssemblyReference.cache
@@ -164,5 +161,8 @@ C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\w
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\BANK-CONSOLE-APP.dll
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\refint\BANK-CONSOLE-APP.dll
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\BANK-CONSOLE-APP.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.deps.json
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\bin\Debug\net7.0\BANK-CONSOLE-APP.pdb
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\BANK-CONSOLE-APP.genruntimeconfig.cache
 C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week5\obj\Debug\net7.0\ref\BANK-CONSOLE-APP.dll
