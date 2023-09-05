@@ -38,9 +38,9 @@ namespace BANK_CONSOLE_APP.Validation
         //{
         //    string passwordPattern = @"^(?=.*[@#$%^&!])(?=.*[a-zA-Z0-9]).{6,}$";
 
-        //    Console.Write("Enter a Password " +
+        //    Console.Write("Enter a Password " +  
         //        "\n (Password requirements: " +
-        //        "\n 1. Minimum 6 characters, " +
+        //        "\n 1. Minimum 6 characters, "  +
         //        "\n 2. alphanumeric, " +
         //        "\n 3. and at least one special character (@, #, $, %, ^, &, !).)): ");
         //    string password = Console.ReadLine()!;

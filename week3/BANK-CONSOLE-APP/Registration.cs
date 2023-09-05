@@ -22,13 +22,13 @@ namespace BANK_CONSOLE_APP
             var ValidateEmail = new ValidateEmail();
             var ValidatePassword = new ValidatePassWord();
             var OpenAccount = new ChooseAccount();
-            var balance = new AccountBalance();
+            var balance = new AccountBalance(); 
 
             bool exit = false;
 
             while (!exit)
             {
-                Console.Clear();
+                //Console.Clear();
                 Console.WriteLine();
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("                         WELCOME                            ");

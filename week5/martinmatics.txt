@@ -1,1 +1,1 @@
-Martin|Nwatu|martin@gmail.com|85465955#|Savings Account|1165680066|0|26/8/2023 15:23:01|Deposit|7000000|7000000|26/8/2023 15:26:09|Withdrawal|7000000|0
+Martin|Nwatu|martin@gmail.com|85465955#|Savings Account|1165680066|50000|26/8/2023 15:23:01|Deposit|7000000|7000000|26/8/2023 15:26:09|Withdrawal|7000000|0|1/9/2023 23:37:22|Deposit|50000|50000

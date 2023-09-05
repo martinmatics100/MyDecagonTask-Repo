@@ -1,6 +1,6 @@
 ﻿namespace BANK_CONSOLE_APP
 {
-    internal class Withdrawal : Registration
+    public class Withdrawal : Registration
     {
         public int Amount;
 

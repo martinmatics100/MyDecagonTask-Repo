@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BANK_CONSOLE_APP
 {
-    internal class AccountBalance
+    public class AccountBalance
     {
         public int balance;
         public AccountBalance()

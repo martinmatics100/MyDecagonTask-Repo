@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BANK_CONSOLE_APP
 {
-    internal class BankMenu
+    public class BankMenu
     {
         public string? choice;
 

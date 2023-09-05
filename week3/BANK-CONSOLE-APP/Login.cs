@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace BANK_CONSOLE_APP
 {
-    internal class Login : Registration
+    public class Login : Registration
     {
+        public object Customers;
         string loginEmail;
         string loginPassWord; 
           
@@ -30,7 +31,7 @@ namespace BANK_CONSOLE_APP
                     string loginPassWord = Console.ReadLine()!;
                     if(loginPassWord == item.Password)
                     {
-                        Console.Clear();
+                        //Console.Clear();
                         var bankMenu = new BankMenu();
                         bankMenu.BankMenuFunction();
                     }
