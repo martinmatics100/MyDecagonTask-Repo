@@ -59,7 +59,7 @@ namespace GPACalculator_Program_Task_One
 
             foreach (var course in convertedGrades)
             {
-                Console.WriteLine("|    " + course.courseCode + "     |      " + course.courseUnit + "      |   " + course.grade + "   |       " + course.gradeUnit + "    |" + course.weightPoint.ToString().PadLeft(11, ' ') + " | " + course.remarks.PadLeft(10, ' ') + "|");
+                Console.WriteLine("|    " + course.courseCode + "     |      " + course.courseUnit + "      |   " + course.grade + "   |       " + course.gradeUnit + "    |" + course.weightPoint.ToString().PadLeft(11, ' ') + " | " + course.remarks.PadLeft(10, ' ') + " |");
             }
             Console.WriteLine("|--------------------------------------------------|------------|-----------|");
             Console.WriteLine();

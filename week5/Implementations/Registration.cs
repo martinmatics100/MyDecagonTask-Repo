@@ -279,19 +279,19 @@ namespace BANK_CONSOLE_APP.Implementations
             }
         }
 
-        public string CurrentNumber()
-        {
-            Random random = new Random();
-            var CurrentAccNo = random.Next(1000000000, 1999999999).ToString();
-            return CurrentAccNo;
-        }
+        //public string CurrentNumber()
+        //{
+        //    Random random = new Random();
+        //    var CurrentAccNo = random.Next(1000000000, 1999999999).ToString();
+        //    return CurrentAccNo;
+        //}
 
-        public string SavingsNumber()
-        {
-            Random random = new Random();
-            var SavingsAccNo = random.Next(100000000, 199999999).ToString();
-            return SavingsAccNo;
-        }
+        //public string SavingsNumber()
+        //{
+        //    Random random = new Random();
+        //    var SavingsAccNo = random.Next(100000000, 199999999).ToString();
+        //    return SavingsAccNo;
+        //}
 
         public void LoginFunction()
         {
@@ -771,103 +771,103 @@ namespace BANK_CONSOLE_APP.Implementations
             }
         }
 
-        public void BankMenuFunction(Registration registered, Customer customer)
-        {
-            Console.WriteLine();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("|-------------------------|");
-            Console.WriteLine("|         BANK MENU       |");
-            Console.WriteLine("|-------------------------|");
-            Console.WriteLine();
-            Console.WriteLine("Please choose an option:");
-            Console.WriteLine();
-            Console.WriteLine("1. CREATE MORE ACCOUNT");
-            Console.WriteLine();
-            Console.WriteLine("2. MAKE A DEPOSIT");
-            Console.WriteLine();
-            Console.WriteLine("3. MAKE A WITHDRAWAL");
-            Console.WriteLine();
-            Console.WriteLine("4. MAKE A TRANSFER");
-            Console.WriteLine();
-            Console.WriteLine("5. GET ACCOUNT DETAILS");
-            Console.WriteLine();
-            Console.WriteLine("6. GET STATEMENT OF ACCOUNTS");
-            Console.WriteLine();
-            Console.WriteLine("7. LOGOUT");
-            Console.WriteLine();
-            Console.ResetColor();
-            Console.Write("Enter your choice (1-7): ");
-            string choice = Console.ReadLine()!;
+        //public void BankMenuFunction(Registration registered, Customer customer)
+        //{
+        //    Console.WriteLine();
+        //    Console.ForegroundColor = ConsoleColor.Green;
+        //    Console.WriteLine("|-------------------------|");
+        //    Console.WriteLine("|         BANK MENU       |");
+        //    Console.WriteLine("|-------------------------|");
+        //    Console.WriteLine();
+        //    Console.WriteLine("Please choose an option:");
+        //    Console.WriteLine();
+        //    Console.WriteLine("1. CREATE MORE ACCOUNT");
+        //    Console.WriteLine();
+        //    Console.WriteLine("2. MAKE A DEPOSIT");
+        //    Console.WriteLine();
+        //    Console.WriteLine("3. MAKE A WITHDRAWAL");
+        //    Console.WriteLine();
+        //    Console.WriteLine("4. MAKE A TRANSFER");
+        //    Console.WriteLine();
+        //    Console.WriteLine("5. GET ACCOUNT DETAILS");
+        //    Console.WriteLine();
+        //    Console.WriteLine("6. GET STATEMENT OF ACCOUNTS");
+        //    Console.WriteLine();
+        //    Console.WriteLine("7. LOGOUT");
+        //    Console.WriteLine();
+        //    Console.ResetColor();
+        //    Console.Write("Enter your choice (1-7): ");
+        //    string choice = Console.ReadLine()!;
 
-            switch (choice)
-            {
-                case "1":
-                    Console.Clear();
-                    Console.Write("YOU SELECTED CREATE MORE ACCOUNT.");
-                    Thread registerThread = new Thread(RegisterFunction);
-                    registerThread.Start();
-                    registerThread.Join();
-                    //RegisterFunction();
+        //    switch (choice)
+        //    {
+        //        case "1":
+        //            Console.Clear();
+        //            Console.Write("YOU SELECTED CREATE MORE ACCOUNT.");
+        //            Thread registerThread = new Thread(RegisterFunction);
+        //            registerThread.Start();
+        //            registerThread.Join();
+        //            //RegisterFunction();
 
-                    break;
-                case "2":
-                    Console.Write("YOU SELCECTED MAKE A DEPOSIT.");
-                    Thread depositThread = new Thread(depositFunction);
-                    depositThread.Start();
-                    depositThread.Join();
-                    //depositFunction();
+        //            break;
+        //        case "2":
+        //            Console.Write("YOU SELCECTED MAKE A DEPOSIT.");
+        //            Thread depositThread = new Thread(depositFunction);
+        //            depositThread.Start();
+        //            depositThread.Join();
+        //            //depositFunction();
 
-                    break;
-                case "3":
-                    Console.Write("YOU SELECTED MAKE A WITHDRAWAL.");
-                    Thread withdrawalThread = new Thread(withdrawFunction);
-                    withdrawalThread.Start();
-                    withdrawalThread.Join();
-                    //withdrawFunction();
+        //            break;
+        //        case "3":
+        //            Console.Write("YOU SELECTED MAKE A WITHDRAWAL.");
+        //            Thread withdrawalThread = new Thread(withdrawFunction);
+        //            withdrawalThread.Start();
+        //            withdrawalThread.Join();
+        //            //withdrawFunction();
 
-                    break;
-                case "4":
-                    Console.Write("YOU SELECTED MAKE A TRANSFER.");
-                    Thread transferThread = new Thread(TransferFunds);
-                    transferThread.Start();
-                    transferThread.Join();
-                    //TransferFunds();
+        //            break;
+        //        case "4":
+        //            Console.Write("YOU SELECTED MAKE A TRANSFER.");
+        //            Thread transferThread = new Thread(TransferFunds);
+        //            transferThread.Start();
+        //            transferThread.Join();
+        //            //TransferFunds();
 
-                    break;
-                case "5":
-                    Console.Write("YOU SELECTED GET ACCOUNT DETAILS.");
-                    Thread detailsThread = new Thread(() =>
-                        {
-                            _printer.PrintAccountDetails(customer); 
-                        });
-                    detailsThread.Start();
-                    detailsThread.Join();
-                    //_printer.PrintAccountDetails(customer);
-                    break;
-                case "6":
-                    Console.Write("YOU SELECTED GET STATEMENT OF ACCOUNT.");
-                    Thread statementThread = new Thread(() =>
-                    {
-                        _printer.PrintAccountDetails(customer);
-                    });
-                    statementThread.Start();
-                    statementThread.Join();
-                    //_printer.PrintAccountStatement(customer);
+        //            break;
+        //        case "5":
+        //            Console.Write("YOU SELECTED GET ACCOUNT DETAILS.");
+        //            Thread detailsThread = new Thread(() =>
+        //                {
+        //                    _printer.PrintAccountDetails(customer); 
+        //                });
+        //            detailsThread.Start();
+        //            detailsThread.Join();
+        //            //_printer.PrintAccountDetails(customer);
+        //            break;
+        //        case "6":
+        //            Console.Write("YOU SELECTED GET STATEMENT OF ACCOUNT.");
+        //            Thread statementThread = new Thread(() =>
+        //            {
+        //                _printer.PrintAccountDetails(customer);
+        //            });
+        //            statementThread.Start();
+        //            statementThread.Join();
+        //            //_printer.PrintAccountStatement(customer);
 
-                    break;
-                case "7":
-                    Console.Write("THANK YOU FOR BANKING WITH US. HAVE A WONDERFUL DAY: ");
-                    Thread logoutThread = new Thread(LogoutFunction);
-                    logoutThread.Start();
-                    logoutThread.Join();
-                    //LogoutFunction();
+        //            break;
+        //        case "7":
+        //            Console.Write("THANK YOU FOR BANKING WITH US. HAVE A WONDERFUL DAY: ");
+        //            Thread logoutThread = new Thread(LogoutFunction);
+        //            logoutThread.Start();
+        //            logoutThread.Join();
+        //            //LogoutFunction();
 
-                    break;
-                default:
-                    Console.Write("Invalid choice.");
-                    break;
-            }
-        }
+        //            break;
+        //        default:
+        //            Console.Write("Invalid choice.");
+        //            break;
+        //    }
+        //}
 
         public void Instruction()
         {

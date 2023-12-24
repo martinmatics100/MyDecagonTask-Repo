@@ -17,7 +17,7 @@ namespace BANK_CONSOLE_APP.Interface
 
         string ValidPasswordCollector();
 
-        bool IsValidPassword(string password);
+        //bool IsValidPassword(string password);
         bool IsNumeric(string input);
 
     }

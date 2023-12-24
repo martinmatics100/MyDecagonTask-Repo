@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyHomePage
 build_property.RootNamespace = MyHomePage
-build_property.ProjectDir = C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week6\MyHomePage\
+build_property.ProjectDir = C:\Users\marti\Desktop\my-Decagon-Task\MyDecagonTask-Repo\week6\MyHomePage\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\OneDrive\Desktop\MyTask-Repo-Decagon\MyDecagonTask-Repo\week6\MyHomePage
+build_property.MSBuildProjectDirectory = C:\Users\marti\Desktop\my-Decagon-Task\MyDecagonTask-Repo\week6\MyHomePage
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Agents.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Agents.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ2VudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Browse_by.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Browse_by.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCcm93c2VfYnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Stories.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Stories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdG9yaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/Error.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/_ViewImports.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/_ViewStart.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Index.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-82or0rhz69
 
-[C:/Users/Administrator/OneDrive/Desktop/MyTask-Repo-Decagon/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/_Layout.cshtml]
+[C:/Users/marti/Desktop/my-Decagon-Task/MyDecagonTask-Repo/week6/MyHomePage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lghmwsydap

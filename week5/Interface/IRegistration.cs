@@ -13,15 +13,15 @@ namespace BANK_CONSOLE_APP.Interface
         void AddCustomer(Customer customer);
         string AccountNumber();
         string AccountType();
-        string CurrentNumber();
-        string SavingsNumber();
+        //string CurrentNumber();
+        //string SavingsNumber();
         void LoginFunction();
         void LogoutFunction();
         decimal balanceFunction();
         void depositFunction();
         void TransferFunds();
         void withdrawFunction();
-        void BankMenuFunction(Registration registered, Customer customer);
+       // void BankMenuFunction(Registration registered, Customer customer);
         void Instruction();
     }
 }
