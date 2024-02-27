@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\AlgorithmPractice.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\my-Decagon-Task\\MyDecagonTask-Repo\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\AlgorithmPractice.csproj",
       "projectName": "AlgorithmPractice",
-      "projectPath": "C:\\Users\\marti\\Desktop\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\AlgorithmPractice.csproj",
+      "projectPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\my-Decagon-Task\\MyDecagonTask-Repo\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\AlgorithmPractice.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\my-Decagon-Task\\MyDecagonTask-Repo\\Interview_Algorithm\\AlgorithmPractice\\AlgorithmPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
