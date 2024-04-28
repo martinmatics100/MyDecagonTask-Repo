@@ -1,0 +1,28 @@
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.exe
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.deps.json
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.runtimeconfig.json
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.pdb
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.AssemblyInfo.cs
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\refint\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.pdb
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.genruntimeconfig.cache
+C:\Users\marti\Desktop\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\ref\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.exe
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.deps.json
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.runtimeconfig.json
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\bin\Debug\net7.0\AlgorithmPractice.pdb
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.AssemblyInfo.cs
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\refint\AlgorithmPractice.dll
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.pdb
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\AlgorithmPractice.genruntimeconfig.cache
+C:\Users\marti\Desktop\Interview_Algorithm Cavista\Interview_Algorithm\AlgorithmPractice\AlgorithmPractice\obj\Debug\net7.0\ref\AlgorithmPractice.dll
