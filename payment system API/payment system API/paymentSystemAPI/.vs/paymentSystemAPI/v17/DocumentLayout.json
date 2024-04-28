@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD60273-D2D7-44A9-9E8C-273A7D3EA549}|paymentSystemAPI.Dal\\paymentSystemAPI.Dal.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD60273-D2D7-44A9-9E8C-273A7D3EA549}|paymentSystemAPI.Dal\\paymentSystemAPI.Dal.csproj|solutionrelative:paymentsystemapi.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|c:\\users\\marti\\downloads\\payment system api\\payment system api\\paymentsystemapi\\paymentsystemapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|solutionrelative:paymentsystemapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\interfaces\\iservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\interfaces\\iservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\interfaces\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\interfaces\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|solutionrelative:paymentsystemapi.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD60273-D2D7-44A9-9E8C-273A7D3EA549}|paymentSystemAPI.Dal\\paymentSystemAPI.Dal.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD60273-D2D7-44A9-9E8C-273A7D3EA549}|paymentSystemAPI.Dal\\paymentSystemAPI.Dal.csproj|solutionrelative:paymentsystemapi.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.api\\profiles\\automappings\\paymentapimappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A3B3A7-33AC-4863-BB95-BF067D3ADDF4}|paymentSystemAPI.Api\\paymentSystemAPI.Api.csproj|solutionrelative:paymentsystemapi.api\\profiles\\automappings\\paymentapimappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\interfaces\\iservices\\imerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\interfaces\\iservices\\imerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentsystemapi.application\\dtos\\merchantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C6F92A-58BE-4453-A8E7-4482C3A0AABD}|paymentSystemAPI.Application\\paymentSystemAPI.Application.csproj|solutionrelative:paymentsystemapi.application\\dtos\\merchantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IServices\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\Interfaces\\IServices\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IServices\\ICustomerService.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\Interfaces\\IServices\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Program.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Program.cs",
+              "RelativeToolTip": "paymentSystemAPI.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Dal\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Dal\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Dal\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "paymentSystemAPI.Dal\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IRepository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\Interfaces\\IRepository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IRepository\\IBaseRepository.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\Interfaces\\IRepository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "paymentSystemAPI.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Dal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Dal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Dal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "paymentSystemAPI.Dal\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentApiMappings.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Profiles\\AutoMappings\\PaymentApiMappings.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Api\\Profiles\\AutoMappings\\PaymentApiMappings.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Api\\Profiles\\AutoMappings\\PaymentApiMappings.cs",
+              "RelativeToolTip": "paymentSystemAPI.Api\\Profiles\\AutoMappings\\PaymentApiMappings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMerchant.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IServices\\IMerchant.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\Interfaces\\IServices\\IMerchant.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\Interfaces\\IServices\\IMerchant.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\Interfaces\\IServices\\IMerchant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MerchantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\DTOs\\MerchantDTO.cs",
+              "RelativeDocumentMoniker": "paymentSystemAPI.Application\\DTOs\\MerchantDTO.cs",
+              "ToolTip": "C:\\Users\\marti\\Downloads\\payment system API\\payment system API\\paymentSystemAPI\\paymentSystemAPI.Application\\DTOs\\MerchantDTO.cs",
+              "RelativeToolTip": "paymentSystemAPI.Application\\DTOs\\MerchantDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:20:30.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
