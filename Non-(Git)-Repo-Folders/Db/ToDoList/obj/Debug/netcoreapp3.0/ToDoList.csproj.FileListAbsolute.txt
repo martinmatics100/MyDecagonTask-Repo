@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.Form1.resources
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfo.cs
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csproj.CoreCompileInputs.cache

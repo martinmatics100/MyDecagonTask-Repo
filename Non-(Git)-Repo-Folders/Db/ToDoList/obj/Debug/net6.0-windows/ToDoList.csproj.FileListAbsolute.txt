@@ -1,0 +1,88 @@
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll.config
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CopyComplete
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\user\Desktop\My Local Task Repo\week-5-task-chrisilodibe\ToDoList\obj\Debug\net6.0-windows\ref\ToDoList.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll.config
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CopyComplete
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\marti\Desktop\Extracted Files\ToDoList\obj\Debug\net6.0-windows\ref\ToDoList.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll.config
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Db\ToDoList\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CopyComplete
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\marti\Desktop\Db\ToDoList\obj\Debug\net6.0-windows\ref\ToDoList.dll
