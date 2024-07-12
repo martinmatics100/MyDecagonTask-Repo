@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiV57519uR9fwHvxjMAO7Fhbyda+bIhFxUZxurVyMjkF6ePvEuqiZAJC1LUEulxdz8qFPrLCsP4G8JxPZnAYkA==",
+  "dgSpecHash": "ah76fKIMYCc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\my-Decagon-Task\\MyDecagonTask-Repo\\week4\\BANK-CONSOLE-APP.Test\\BANK-CONSOLE-APP.Test.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\my-Decagon-Task\\MyDecagonTask-Repo\\week4\\BANK-CONSOLE-APP.Test\\BANK-CONSOLE-APP.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
